@@ -18,7 +18,7 @@ Make sure you have the following installed:
 - Any web browser (Chrome / Firefox / Edge)
 - (If needed) VS Code or any code editor
 
-_No backend dependencies — frontend only._
+
 
 ---
 
@@ -30,3 +30,27 @@ _No backend dependencies — frontend only._
 ---
 
 ## 📂 Folder Structure
+├── index.html
+├── about.html
+├── contact.html
+├── assets/
+│ ├── images/
+│ ├── css/
+│ └── js/
+└── README.md
+
+
+---
+
+## 👨‍💻 Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+---
+
+## 📝 License
+This project is free to use and modify.
+
